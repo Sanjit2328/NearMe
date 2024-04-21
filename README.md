@@ -117,9 +117,9 @@ It's just Awesome Place.
 </html>
 ```
 ## OUTPUT
-Register number: 212223230212
+Register number: 212223230190
 
-Name: SREE HARI K
+Name:SANJIT.P
 
 
 ![map](https://github.com/sreehari2315/NearMe/assets/139331590/2a807363-f340-45b4-b9a9-d5eec6f842c4)
